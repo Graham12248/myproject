@@ -1,5 +1,5 @@
 body{
-  background-color: yellow;
+  background-color: rgba(50, 115, 220, 0.3);
 }
 
 nav{
@@ -9,6 +9,7 @@ nav{
   background-repeat: no-repeat;
   font-family:Arial;
   height: 960px;
+  display: grid;
 }
 .logo{
   background-color: blue;
